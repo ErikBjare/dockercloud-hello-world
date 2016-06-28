@@ -50,5 +50,16 @@
 		<?php
 	}
 	?>
+	
+	<h2>Some social links</h2>
+	<p>Useful in crawler testing</p>
+	<ul>
+		<li><a href="http://twitter.com/spacex">Twitter</a>
+		<li><a href="http://linkedin.com/company/spacex">LinkedIn</a>
+		<li><a href="http://facebook.com/spacex">Facebook</a>
+		<li><a href="http://plus.google.com/+SpaceX">Google+</a>
+		<li><a href="https://www.youtube.com/user/spacexchannel">YouTube</a>
+		<li><a href="http://reddit.com/r/spacex">Reddit</a>
+	</ul>
 </body>
 </html>
